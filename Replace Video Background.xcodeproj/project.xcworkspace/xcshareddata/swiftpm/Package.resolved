@@ -1,0 +1,24 @@
+{
+  "originHash" : "732e56b7b4fa3d704d5dc60a397e17a454f2734dcd380875c4ec4878e6de951a",
+  "pins" : [
+    {
+      "identity" : "metalpetal",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/MetalPetal/MetalPetal",
+      "state" : {
+        "revision" : "f9b78897bd4214bb097f352a1bde0a4f4a1e2ddb",
+        "version" : "1.25.2"
+      }
+    },
+    {
+      "identity" : "svprogresshud",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SVProgressHUD/SVProgressHUD.git",
+      "state" : {
+        "revision" : "c33f7c775ba7feea6047a1fc3257f2e5863b44f7",
+        "version" : "2.3.1"
+      }
+    }
+  ],
+  "version" : 3
+}
